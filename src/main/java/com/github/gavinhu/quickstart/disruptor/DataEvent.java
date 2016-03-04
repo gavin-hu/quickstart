@@ -1,4 +1,4 @@
-package net.hs.cw.quickstart.disruptor;
+package com.github.gavinhu.quickstart.disruptor;
 
 import java.util.ArrayList;
 import java.util.List;

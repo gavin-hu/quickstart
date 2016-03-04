@@ -1,4 +1,4 @@
-package net.hs.cw.quickstart.kafka;
+package com.github.gavinhu.quickstart.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

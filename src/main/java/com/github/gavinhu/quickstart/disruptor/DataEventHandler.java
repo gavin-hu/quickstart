@@ -1,4 +1,4 @@
-package net.hs.cw.quickstart.disruptor;
+package com.github.gavinhu.quickstart.disruptor;
 
 import com.lmax.disruptor.EventHandler;
 import org.apache.logging.log4j.LogManager;

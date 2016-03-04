@@ -1,4 +1,4 @@
-package net.hs.cw.quickstart.binlog;
+package com.github.gavinhu.quickstart.binlog;
 
 import com.github.shyiko.mysql.binlog.BinaryLogClient;
 import com.github.shyiko.mysql.binlog.event.Event;

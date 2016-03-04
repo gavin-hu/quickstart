@@ -1,4 +1,4 @@
-package net.hs.cw.quickstart.logger;
+package com.github.gavinhu.quickstart.logger;
 
 
 import org.apache.logging.log4j.LogManager;
